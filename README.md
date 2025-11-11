@@ -9,7 +9,7 @@ A Python-based network automation tool for configuring Cisco networking devices.
 - **Telnet Setup**: Configure telnet access on switches and routers with password protection
 - **Static NAT**: Set up static Network Address Translation with inside/outside interface configuration
 - **Dynamic NAT**: Configure dynamic NAT with IP pools, access lists, and interface assignments
-- **Voice Assistant**: Optional audio feedback with custom voice options (Bill and Aszi)
+- **Voice Assistant**: Optional audio feedback with custom voice options (Bill and Aszi, thank you guys for narrating! ❤️)
 - **Easter Eggs**: Hidden features for fun interactions
 
 ## Requirements
